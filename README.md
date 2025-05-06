@@ -1,2 +1,2 @@
 # Student-Management
-Manage and track student information
+Manage and track student tasks
